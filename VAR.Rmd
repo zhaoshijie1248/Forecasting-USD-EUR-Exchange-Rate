@@ -5,7 +5,7 @@ output:
   html_document: default
   pdf_document: default
 ---
-TAN,YIJING 
+Shijie Zhao 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
